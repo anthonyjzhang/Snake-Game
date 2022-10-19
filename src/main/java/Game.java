@@ -1,5 +1,3 @@
-package java;
-
 import javax.swing.*;
 
 public class Game extends JFrame {
@@ -14,4 +12,4 @@ public class Game extends JFrame {
         this.setLocationRelativeTo(null);
     }
 
-}}
+}
